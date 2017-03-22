@@ -1,3 +1,7 @@
+/* This is a simple program that displays a menu with items, prices, and allows
+   the user to select items and get a total price
+ */ 
+
 #include<iostream>
 #include<string>
 #include<iomanip>

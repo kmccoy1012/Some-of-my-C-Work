@@ -46,7 +46,7 @@ int main()
 		 << endl;
 	printResults(secondSet);
 
-	// HINT ON MENUS
+	
 	do {
 		cout << "Welcome to the Nut Job's Restaurant" << endl;
 		for (int i=0; i<MENUSIZE; i++)
@@ -77,7 +77,7 @@ void readFromFile(studentType allStudents[])
 	ifstream fin;
 	fin.open("people.txt");
 
-	// don't do a for loop in yours or hard code the size
+	
 	for (int i=0; i<3; i++)
 	{
 		getline(fin, allStudents[i].name);

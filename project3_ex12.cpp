@@ -1,6 +1,5 @@
 /****************************************************************
  Name: Kevin McCoy
- Date: February 13 2011
  Purpose: Updates a user's bank account information based on their
           balance, minimum balance, and interest
  ****************************************************************/

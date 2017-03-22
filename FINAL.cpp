@@ -1,5 +1,4 @@
 /* Name:		Kevin McCoy
-   Date:		April 27, 2011
    Project:		Final Project
  */
 

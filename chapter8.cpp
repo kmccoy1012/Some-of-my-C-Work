@@ -15,9 +15,9 @@ int main()
 	//double taxRate = 99;
 
 	colors favoriteColor;
-	grades KylesGrade;
+	grades MyGrade;
 
-	KylesGrade = A;
+	MyGrade = A;
 	favoriteColor = GREEN;
 	
 	setPrecision(2);

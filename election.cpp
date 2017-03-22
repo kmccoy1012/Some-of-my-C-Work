@@ -1,11 +1,3 @@
-/********************************************
-  Name:			Bo Morris
-  Dates:		April 11, 2011
-  Class:		IST163, 9:00 AM
-  Assignment:   Lab 8, exercise 7
-  Help Recvd:	None, except for in-class discussion
-*********************************************/
-
 #include<iostream>
 #include<iomanip>
 #include<string>

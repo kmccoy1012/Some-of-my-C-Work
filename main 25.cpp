@@ -1,8 +1,6 @@
 /******************************************
  Name:	Kevin McCoy
- Date:	January 24, 2011
- Class:  IST 163 9:00 AM
- Help:   Entire Class
+
  ******************************************/
 
 #include <iostream>

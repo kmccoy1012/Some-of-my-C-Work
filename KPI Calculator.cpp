@@ -1,5 +1,6 @@
 /*******************************************
  Name:				Kevin McCoy
+ Use:               This calculator is used in order to calculate if a Speedway GM is executing the metrics or not
  ********************************************/
 #include<iostream>
 #include<iomanip>

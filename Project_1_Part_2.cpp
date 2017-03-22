@@ -1,9 +1,7 @@
 /**********************************************************************************
  Name: Kevin McCoy
- Date: January 26, 2011
  Purpose of File: Displays the miles a vehicle can get based on the amount of fuel
- Dates of Conding: January 23
- Help Received: Brian Morgan
+
  
  **********************************************************************************/
 
